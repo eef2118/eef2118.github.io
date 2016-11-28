@@ -39,6 +39,11 @@ body {
  
 }
 
+.header a img, .offices img {
+    max-width: 300px;
+    height: auto;
+}
+
 .company {
   font-family: 'Open Sans', sans-serif;
   color: #ffffff;
