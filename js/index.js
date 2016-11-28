@@ -102,7 +102,7 @@ var winH = $(window).height();
 var mapSection = $(".map");
 $(window).on("scroll", function(){
 	var rect = mapSection[0].getBoundingClientRect();
-	if ((rect.top < (winH / 2)) && 
+	if ((rect.top < (winH / 1)) && 
 		$(window).width() > 1280)
 	{
 		$(".callout").animate({
