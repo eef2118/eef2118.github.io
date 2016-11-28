@@ -127,7 +127,7 @@ $(window).on("scroll", function(){
 		// 	"opacity":".9"
 		// },1500);   
 		$(".box-1").animate({
-			"left":"60.5%",
+			"left":"780px",
 			"opacity":".9"
 		},1350);  
 		$(".brazil-circle").animate({
@@ -135,7 +135,7 @@ $(window).on("scroll", function(){
 			"opacity":".9"
 		},1350);
 		$(".box-2").animate({
-			"left":"61%",
+			"left":"780px",
 			"opacity":".9"
 		},1650);  
 		$(".mexico-circle").animate({
@@ -143,7 +143,7 @@ $(window).on("scroll", function(){
 			"opacity":".9"
 		},1650);  
 		$(".box-3").animate({
-			"left":"60.75%",
+			"left":"780px",
 			"opacity":".9"
 		},1850);  
 		$(".argentina-circle").animate({
@@ -151,7 +151,7 @@ $(window).on("scroll", function(){
 			"opacity":".9"
 		},1850);  
 		$(".box-4").animate({
-			"left":"62%",
+			"left":"780px",
 			"opacity":".9"
 		},1950);  
 		$(".colombia-circle").animate({
@@ -159,7 +159,7 @@ $(window).on("scroll", function(){
 			"opacity":".9"
 		},1950);  
 		$(".box-5").animate({
-			"left":"62%",
+			"left":"780px",
 			"opacity":".9"
 		},2150);  
 		$(".chile-circle").animate({
@@ -176,7 +176,6 @@ $(window).on("scroll", function(){
 		},2550);
 	}
 });
-
 		
 var modal = document.getElementById('myModal');
 

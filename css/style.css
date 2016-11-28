@@ -21,7 +21,7 @@ html {
 }
 
 body {
-	background-color: #EEEEED;
+  background-color: #EEEEED;
   font-family: 'PT Serif', serif;
   font-size: 14px;
   font-weight: 500; 
@@ -37,11 +37,6 @@ body {
  padding-right: 30px;
  border-bottom: 1.5px solid #DEDEDE;
  
-}
-
-.header a img, .offices img {
-    max-width: 300px;
-    height: auto;
 }
 
 .company {
@@ -90,20 +85,20 @@ body {
 }
 
 nav { 
-	
-	float: right;
+  
+  float: right;
 
 }
 
 ul {
-	list-style: none;
+  list-style: none;
 
 
 }
 
 li {
-	font-family: 'Raleway', sans-serif;
-	font-weight: 700; 
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700; 
   text-transform: uppercase;
   float: left;
   padding-top: 100px;
@@ -854,11 +849,11 @@ input[type="radio"]{
 
 .copyright { 
   height: 150px;
-	font-family: 'PT Serif', sans-serif;
-	font-weight: 500;
-	color: #ffffff;
-	font-size: 14px;
-	text-align: center;
+  font-family: 'PT Serif', sans-serif;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
   background: #313131;
   color: #999;
   position: relative;
