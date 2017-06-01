@@ -3361,6 +3361,40 @@ button.btn.btn-block {
     padding-left: 10px;
     padding-right: 10px;
   }
+  @media @media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)
+and (-webkit-min-device-pixel-ratio: 1) 
+ {
+  .logo-vc {
+    width: 300px;
+    height: auto;
+  }
+  .btns-container {
+    padding: 20px 15px;
+  }
+  .btns-container .btn {
+    display: block;
+  }
+  .btn,
+  .header .buy-btn {
+    display: block;
+    width: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .btn.btn-rounded {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .btn.btn-rounded.btn-lg {
+    padding-left: 19px;
+    padding-right: 19px;
+  }
+  .btn.btn-rounded.btn-sm {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }
 /* ----------------------------------------------------------------------------
     Schedules
@@ -5260,7 +5294,7 @@ button[type="submit"] .loading {
     top: 30px;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .socials-nav {
     position: relative;
     top: auto;
@@ -5268,6 +5302,13 @@ button[type="submit"] .loading {
   }
 }
 @media (max-width: 480px) {
+  .socials-nav-item {
+    margin: 0 6px;
+  }
+  @media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)
+and (-webkit-min-device-pixel-ratio: 1) {
   .socials-nav-item {
     margin: 0 6px;
   }
@@ -6606,6 +6647,14 @@ button[type="submit"] .loading {
   }
 }
 @media (max-width: 480px) {
+  .header .buy-btn {
+    display: inline-block;
+  }
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)
+and (-webkit-min-device-pixel-ratio: 1) 
+{
   .header .buy-btn {
     display: inline-block;
   }
