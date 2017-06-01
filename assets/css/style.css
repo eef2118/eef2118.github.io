@@ -6482,7 +6482,7 @@ button[type="submit"] .loading {
     background-color: #ffffff;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .header {
     position: fixed;
     top: 0;
