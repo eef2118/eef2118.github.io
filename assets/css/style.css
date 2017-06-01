@@ -4958,7 +4958,7 @@ button[type="submit"] .loading {
     height: 60px;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .testimonial {
     margin-bottom: 25px;
   }
@@ -5260,7 +5260,7 @@ button[type="submit"] .loading {
     top: 30px;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .socials-nav {
     position: relative;
     top: auto;
@@ -5610,7 +5610,7 @@ button[type="submit"] .loading {
     margin-left: 24px;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .gallery.light-slider {
     -webkit-transition: none;
     -moz-transition: none;
@@ -5871,7 +5871,7 @@ button[type="submit"] .loading {
     height: 160px;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .inline {
     margin: 10px;
   }
@@ -6001,7 +6001,7 @@ button[type="submit"] .loading {
     padding: 0 20px 0 0;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .contacts-on-map {
     -webkit-transform: none;
     -moz-transform: none;
@@ -6482,7 +6482,7 @@ button[type="submit"] .loading {
     background-color: #ffffff;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .header {
     position: fixed;
     top: 0;
