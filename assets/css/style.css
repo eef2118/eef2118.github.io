@@ -5186,11 +5186,11 @@ and (-webkit-min-device-pixel-ratio: 1)
     width: 40px;
   }
   .package-detail {
-    width: 40px;
+    width: 60px;
   }
   .package-panel {
     margin-bottom: 40px;
-    padding: 40px;
+    height: 80px;
   }
   .package-panel .buy-btn {
     width: 140px;
