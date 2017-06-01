@@ -59,7 +59,7 @@ if ( !empty($_GET['ajax']) ) {
 	
 	// After Mailchimp API call executed successfully you can send more emails
 	// to yourself or users. Just uncomment and edit the code below
-	/
+	/*
 	$to = "office@example.com";
 	$subject = "Thanks for subscribing to our the LatAm Venture Bulletin!";
 	$message .= "Thanks for subscribing to our the LatAm Venture Bulletin!"
