@@ -5182,12 +5182,11 @@ and (max-device-width : 1024px)
 and (-webkit-min-device-pixel-ratio: 1)
 {
   .package-title {
-    font-size: 10px;
+    font-size: 20px;
   }
   .package-panel {
     margin-bottom: 40px;
-    padding-right: 150px;
-    padding-bottom: 30px;
+    padding: 0px;
   }
   .package-panel .buy-btn {
     width: 140px;
@@ -5293,7 +5292,7 @@ and (-webkit-min-device-pixel-ratio: 1)
 }
 @media (max-width: 480px) {
   .socials-nav-item {
-    margin: 0 6px;
+    margin: 10 6px;
   }
 }
 /* ----------------------------------------------------------------------------
