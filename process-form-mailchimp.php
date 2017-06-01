@@ -61,8 +61,8 @@ if ( !empty($_GET['ajax']) ) {
 	// to yourself or users. Just uncomment and edit the code below
 	/*
 	$to = "office@example.com";
-	$subject = "Thanks for subscribing to our the LatAm Venture Bulletin!";
-	$message .= "Thanks for subscribing to our the LatAm Venture Bulletin!"
+	$subject = "test email";
+	$message .= "thanks for subscribing to our newsletter!"
 	$headers  = "MIME-Version: 1.0" . "\r\n";
 	$headers .= "Content-type: text/html; charset=utf-8" . "\r\n";
 	$headers .= "From: Ventcamp Forms <" . $_GET['email'] . ">". "\r\n";

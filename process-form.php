@@ -6,14 +6,14 @@
 *
 */
 
-$to = "elisabeth.fabila@gmail.com";
-$subject = "Thank you for subscribing to the LatAm Venture Bulletin!";
+$to = "office@example.com";
+$subject = "Signup from Ventcamp";
 $newsletter = array(true => 'Yes!', 0 => 'No please');
 $message = "Ticket type: " . $_POST['ticket'];
-$message .= "<br/>Fullname: " . $_POST['Elisabeth Soto'];
-$message .= "<br>Company: " . $_POST['LAVCA'];
-$message .= "<br>Email: " . $_POST['esoto@lavca.org'];
-$message .= "<br>Newsletter subscription: " . $newsletter[$_POST['Thank you for subscribing to the LatAm Venture Bulletin!']];
+$message .= "<br/>Fullname: " . $_POST['fullname'];
+$message .= "<br>Company: " . $_POST['company'];
+$message .= "<br>Email: " . $_POST['email'];
+$message .= "<br>Newsletter subscription: " . $newsletter[$_POST['newsletter']];
 
 $headers  = "MIME-Version: 1.0" . "\r\n";
 $headers .= "Content-type: text/html; charset=utf-8" . "\r\n";
