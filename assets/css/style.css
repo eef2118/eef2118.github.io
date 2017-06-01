@@ -5260,7 +5260,7 @@ button[type="submit"] .loading {
     top: 30px;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .socials-nav {
     position: relative;
     top: auto;
