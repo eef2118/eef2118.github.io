@@ -3332,7 +3332,7 @@ button.btn.btn-block {
   }
 }
 @media (max-width: 480px) {
-  .logo {
+  .logo-vc {
     width: 100%;
     height: auto;
   }
