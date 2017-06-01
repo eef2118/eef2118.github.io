@@ -3332,7 +3332,9 @@ button.btn.btn-block {
   }
 }
 @media (max-width: 480px) {
-  
+  .logo-vc {
+    width: 300px;
+    height: auto;
   }
   .btns-container {
     padding: 20px 15px;
