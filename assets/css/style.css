@@ -5234,16 +5234,16 @@ button[type="submit"] .loading {
 ---------------------------------------------------------------------------- */
 .socials-nav {
   position: absolute;
-  top: 35px;
-  left: 410px;
+  top: 25px;
+  left: 0;
   right: 0;
   text-align: center;
 }
 .socials-nav-item {
-  margin: 0 2px;
+  margin: 0 12px;
   display: inline-block;
-  width: 20px;
-  font-size: 15px;
+  width: 24px;
+  font-size: 20px;
 }
 .socials-nav-item a {
   display: inline-block;
