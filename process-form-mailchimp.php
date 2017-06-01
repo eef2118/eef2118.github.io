@@ -59,10 +59,10 @@ if ( !empty($_GET['ajax']) ) {
 	
 	// After Mailchimp API call executed successfully you can send more emails
 	// to yourself or users. Just uncomment and edit the code below
-	/*
+	/
 	$to = "office@example.com";
-	$subject = "test email";
-	$message .= "thanks for subscribing to our newsletter!"
+	$subject = "Thanks for subscribing to our the LatAm Venture Bulletin!";
+	$message .= "Thanks for subscribing to our the LatAm Venture Bulletin!"
 	$headers  = "MIME-Version: 1.0" . "\r\n";
 	$headers .= "Content-type: text/html; charset=utf-8" . "\r\n";
 	$headers .= "From: Ventcamp Forms <" . $_GET['email'] . ">". "\r\n";
