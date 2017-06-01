@@ -5182,11 +5182,11 @@ and (max-device-width : 1024px)
 and (-webkit-min-device-pixel-ratio: 1)
 {
   .package-title {
-    font-size: 20px;
+    font-size: 15px;
   }
   .package-panel {
     margin-bottom: 40px;
-    padding: 0px;
+    padding: 100px;
   }
   .package-panel .buy-btn {
     width: 140px;
