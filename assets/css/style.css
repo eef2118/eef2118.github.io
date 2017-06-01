@@ -5160,7 +5160,9 @@ button[type="submit"] .loading {
     padding-right: 0;
   }
 }
-@media (max-width: 1024px) and (min-width: 768px) {
+@media (max-width: 1024px) and (min-width: 768px) 
+and (-webkit-min-device-pixel-ratio: 1) 
+{
   .package-panel {
     margin-bottom: 40px;
     padding-right: 150px;
