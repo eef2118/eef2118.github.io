@@ -6,11 +6,11 @@
 */
 
 // grab an API Key from http://admin.mailchimp.com/account/api/
-$api_key = 'your-api-code-here';
+$api_key = '356f133e10d741c693f0a7bb142185ed-us11';
 
 // grab your List's Unique Id by going to http://admin.mailchimp.com/lists/
 // Click the "settings" link for the list - the Unique Id is at the bottom of that page.
-$list_id = "your-list-id-here";
+$list_id = "9d8375de7f";
 
 
 //Making API call, no change needed here
