@@ -5160,7 +5160,7 @@ button[type="submit"] .loading {
     padding-right: 0;
   }
 }
-@media (max-width: 991px) and (min-width: 768px) {
+@media (max-width: 1024px) and (min-width: 768px) {
   .package-panel {
     margin-bottom: 40px;
     padding-right: 150px;
@@ -7168,38 +7168,6 @@ button[type="submit"] .loading {
   }
 }
 @media (max-width: 767px) {
-  .line-heading:before,
-  .line-heading:after {
-    width: 5.5%;
-  }
-  .sponsors-list > li {
-    padding: 5px 10px;
-  }
-  .prices-section .row {
-    margin-left: 0;
-    margin-right: 0;
-  }
-  .form-register .form-group {
-    padding-bottom: 0;
-  }
-  .form-register .form-group > label {
-    width: 100%;
-    text-align: left;
-    line-height: 30px;
-  }
-  .form-register .checkbox-wrapper {
-    margin-left: 0;
-  }
-  .hero-section,
-  .hero-section > .container {
-    padding-top: 0 !important;
-    padding-bottom: 0 !important;
-  }
-}
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px)
-and (-webkit-min-device-pixel-ratio: 1)  {
   .line-heading:before,
   .line-heading:after {
     width: 5.5%;
