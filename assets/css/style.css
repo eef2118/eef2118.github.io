@@ -5025,8 +5025,8 @@ button[type="submit"] .loading {
 .package-column .package-detail ul li {
   line-height: 29px;
   text-align: center;
-  padding-left: 10px;
-  width: 325px;
+  padding-left: 70px;
+  width: 200px;
 }
 .package-column .package-detail-2 ul li {
   line-height: 29px;
@@ -5200,18 +5200,18 @@ and (-webkit-min-device-pixel-ratio: 1)
   }
   .package-title-2 {
     font-size: 15px;
-    width: 50px;
-    margin: 0 0 10px;
+    width: 40px;
+    padding-right: 100px;
   }
   .package-detail {
     width: 120px;
   }
   .package-column .package-detail ul li {
-   line-height: 29px;
-   text-align: center;
-   padding-left: 10px;
-   width: 120px;
-  }
+  line-height: 29px;
+  text-align: center;
+  padding-left: 0px;
+  width: 200px;
+}
   .package-panel {
     margin-bottom: 40px;
     height: 150px;
