@@ -5200,10 +5200,17 @@ and (-webkit-min-device-pixel-ratio: 1)
   }
   .package-title-2 {
     font-size: 15px;
-    width: 40px;
+    width: 50px;
+    margin: 0 0 10px;
   }
   .package-detail {
     width: 120px;
+  }
+  .package-column .package-detail ul li {
+   line-height: 29px;
+   text-align: center;
+   padding-left: 10px;
+   width: 120px;
   }
   .package-panel {
     margin-bottom: 40px;
