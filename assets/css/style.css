@@ -5181,6 +5181,10 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px)
 and (-webkit-min-device-pixel-ratio: 1)
 {
+  }
+  .bg-cover {
+    background-attachment: scroll;
+  }
   .package-title-2 {
     font-size: 15px;
     width: 40px;
